@@ -1,6 +1,6 @@
 # Wuhazua
 
-### I am a 16-year-old developer, primarily focused on interface-related projects, I don't really code scripts and stuff.
+### 16-year-old developer focusing on interface-related projects.
 
 ---
 
@@ -15,17 +15,16 @@
 ---
 
 ### Actively learning:
-- **Lua**, **Python**, **HTML**, & **CSS**
+- **Lua**, **Python**, **HTML**, **CSS**
 
 ---
 
 ### Contact:
-- Reach me on **Discord**: **Wuhazua**  
-[Discord Profile](https://discord.com/users/605995776711327769)
+- **Discord**: [Wuhazua](https://discord.com/users/605995776711327769)
 
 ---
 
-### Stats:
+### GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wuhazua&show_icons=true&locale=en&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuhazua&show_icons=true&locale=en)
 ![Streak Stats](https://streak-stats.demolab.com/?user=Wuhazua)

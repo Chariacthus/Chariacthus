@@ -1,6 +1,6 @@
 # Wuhazua
 
-### Developer focused on creating UI libraries and tools like Tracehook. Constantly exploring new technologies.
+### I am a 16-year-old developer, primarily focused on interface-related projects, I don't really code scripts and stuff.
 
 ---
 

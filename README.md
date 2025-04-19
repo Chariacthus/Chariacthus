@@ -2,7 +2,6 @@
 
 <div style="background-color: #2c2f36; color: #f1f1f1; padding: 10px; border-radius: 8px;">
   <img src="https://komarev.com/ghpvc/?username=wuhazua&color=36b812" alt="Profile Views"><br>
-  <img src="https://img.shields.io/github/followers/wuhazua?style=social" alt="GitHub Followers"><br>
 </div>
 
 

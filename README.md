@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <div align="center" width="50">
 
 </div>
@@ -14,6 +13,6 @@
 </br>
 </br>
 
-  <img src="![](https://komarev.com/ghpvc/?wuhazua&color=blueviolet)"><br>
+<img src="https://komarev.com/ghpvc/?username=Wuhazua&color=blueviolet" alt="Profile views"><br>
 
 </div>

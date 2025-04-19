@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=wuhazua&label=Profile%20views&color=0e75b6&style=flat" alt="wuhazua" />
 </p>
 
-- 🚀 Currently working on: [UI Libraries](https://github.com/Wuhazua/UI-Libraries) & [Tracehook](https://github.com/Wuhazua/Tracehook)
+-  Currently working on: [UI Libraries](https://github.com/Wuhazua/UI-Libraries) & [Tracehook](https://github.com/Wuhazua/Tracehook)
 
-- 📚 Actively learning: **Lua, Python, HTML, & CSS**
+-  Actively learning: **Lua, Python, HTML, & CSS**
 
-- 📬 Reach out to me: **Direct message me on Discord!** My username is **Wuhazua**
+-  Reach out to me: **Direct message me on Discord!** My username is **Wuhazua**
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">

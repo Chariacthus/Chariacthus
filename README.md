@@ -1,7 +1,7 @@
 # Wuhazua
 
 ### 16-year-old developer focusing on interface-related projects.  
-I don't really code scripts for games — as stated, I mainly focus on UI.
+I don't really code scripts for games as stated, I mainly focus on UI.
 
 ---
 

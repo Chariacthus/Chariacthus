@@ -15,8 +15,4 @@
 
 ---
 
-<i>More Info:</i><br>
-
-<a href="https://dev.to/Wuhazua" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
 </div>

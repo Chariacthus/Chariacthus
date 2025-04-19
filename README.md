@@ -16,7 +16,6 @@
 
 ### Actively learning:
 - **Lua**, **Python**, **HTML**, **CSS**
-
 ---
 
 ### Contact:

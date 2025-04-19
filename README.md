@@ -23,7 +23,6 @@ I don't really code scripts for games — as stated, I mainly focus on UI.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
 
 ---
-
 ### Contact:
 - **Discord**: [Wuhazua](https://discord.com/users/605995776711327769)
 

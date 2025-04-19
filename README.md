@@ -1,8 +1,8 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=dayyass&color=36b812)<br>
-![](https://img.shields.io/github/followers/dayyass?style=social)<br>
-![](https://img.shields.io/github/stars/dayyass?style=social)<br>
+![](https://komarev.com/ghpvc/?username=wuhazua&color=36b812)<br>
+![](https://img.shields.io/github/followers/wuhazua?style=social)<br>
+![](https://img.shields.io/github/stars/wuhazua?style=social)<br>
 
 <div align="center" width="50">
 

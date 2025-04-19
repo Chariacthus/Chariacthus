@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Wuhazua!</h1>
-<h3 align="center">I like to program and I'm always learning!</h3>
+<h3 align="center">I'm a developer working on UI libraries and Tracehook. I'm always learning new things!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wuhazua&label=Profile%20views&color=0e75b6&style=flat" alt="wuhazua" /> </p>
 
-- 🔥 I’m currently working on: [Proton VPN Browser Extension](https://github.com/Wuhazua/Proton-VPN-Extension)
+- 🔥 I’m currently working on: [UI Libraries](https://github.com/Wuhazua/UI-Libraries) & [Tracehook](https://github.com/Wuhazua/Tracehook)
 
-- 🌱 I’m currently learning: **Python, Cybersecurity, and VPN Technologies**
+- 🌱 I’m currently learning: **Lua, Python, HTML & CSS.**
 
-- 🤝 I’m looking for help with: **VPN technologies and Cybersecurity**
-
-- 👍 Know about my experiences: **I work as a Cybersecurity Developer and love programming in Python.**
-
-- ⚡ Fun fact: I love working on new projects, especially related to security.
-
-- 📧 How to reach me: **Feel free to shoot me a message on Discord!**
+- 📧 How to reach me: **Shoot me a message on Discord!** My username is **Wuhazua**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,9 +16,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
@@ -32,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wuhazua&show_icons=true&locale=en" alt="wuhazua" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=wuhazua" alt="wuhazua" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=Wuhazua" alt="wuhazua" /></p>

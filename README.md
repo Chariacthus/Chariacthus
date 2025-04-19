@@ -1,6 +1,7 @@
 # Wuhazua
 
-### 16-year-old developer focusing on interface-related projects, I don't really code stuff tho like scripts for games as stated I focus mainly on the UI.
+### 16-year-old developer focusing on interface-related projects.  
+I don't really code scripts for games as stated, I mainly focus on UI.
 
 ---
 
@@ -15,7 +16,11 @@
 ---
 
 ### Actively learning:
-- **Lua**, **Python**, **HTML**, **CSS**
+- **Lua**
+- **Python**
+- **HTML**
+- **CSS**
+
 ---
 
 ### Contact:
@@ -24,6 +29,6 @@
 ---
 
 ### GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wuhazua&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuhazua&show_icons=true&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wuhazua&show_icons=true&locale=en&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuhazua&show_icons=true&locale=en)  
 ![Streak Stats](https://streak-stats.demolab.com/?user=Wuhazua)

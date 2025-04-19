@@ -30,6 +30,6 @@ I don't really code scripts for games — as stated, I mainly focus on UI.
 ---
 
 ### GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wuhazua&show_icons=true&locale=en&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuhazua&show_icons=true&locale=en)  
-![Streak Stats](https://streak-stats.demolab.com/?user=Wuhazua)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wuhazua&show_icons=true&locale=en&layout=compact&cache_seconds=0)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuhazua&show_icons=true&locale=en&cache_seconds=0)  
+![Streak Stats](https://streak-stats.demolab.com/?user=Wuhazua&cache_seconds=0)

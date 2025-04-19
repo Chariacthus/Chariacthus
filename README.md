@@ -14,6 +14,6 @@
 </br>
 </br>
 
-<img src="https://komarev.com/ghpvc/?username=Wuhazua&color=6A4C9C" alt="Profile views"><br>
+<img src="https://komarev.com/ghpvc/?username=Wuhazua&color=6A4C9C&abbreviated=true" alt="Profile views"><br>
 
 </div>

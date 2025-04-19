@@ -1,31 +1,41 @@
-<h2><img src="https://komarev.com/ghpvc/?username=wuhazua&label=Profile%20views&color=0e75b6&style=flat" width="120"> I'm Wuhazua</h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+</div>
 
-<p><em>16-year-old developer focused on UI and interface-related projects.  
-I don't really code gameplay or game scripts — my work is mostly about clean, functional design.</em></p>
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
+
+<div align="center">
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/Wuhazua/Wuhazua/issues/new"><b>here</b></a><br>
+or <a href="mailto:wuhazua@example.com"><b>email</b></a> me.
+
+<i>Happy Coding!</i> 😊
+
+</div>
+
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wuhazua&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Wuhazua's Github Stats">
+
+</br>
+</br>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 ---
 
-### 🔧 Currently working on:
-- [UI Libraries](https://github.com/Wuhazua/UI-Libraries)
-- [Tracehook](https://github.com/Wuhazua/Tracehook)
+<i>Follow me around the web:</i><br>
 
----
+<a href="https://www.linkedin.com/in/wuhazua" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/wuhazua" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/Wuhazua" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://open.spotify.com/user/wuhazua" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://dev.to/Wuhazua" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
-### 💻 Actively learning:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="35"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35"/>
-
----
-
-### 📡 Contact:
-- **Discord**: [Wuhazua](https://discord.com/users/605995776711327769)
-
----
-
-### 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wuhazua&show_icons=true&locale=en&layout=compact&cache_seconds=0)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuhazua&show_icons=true&locale=en&cache_seconds=0)  
-![Streak Stats](https://streak-stats.demolab.com/?user=Wuhazua&cache_seconds=0)
+</div>

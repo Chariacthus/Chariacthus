@@ -1,8 +1,5 @@
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=wuhazua&color=36b812" alt="Profile Views"><br>
-</div>
-
 
 <div align="center" width="50">
 
@@ -16,5 +13,8 @@
 
 </br>
 </br>
+
+  <img src="https://komarev.com/ghpvc/?username=wuhazua&color=36b812" alt="Profile Views"><br>
+</div>
 
 </div>

@@ -14,8 +14,8 @@ My name is wuhazu/wuhazua. I graduated at Technical University of Denmark.
 ### :pencil: [Latest Projects](https://github.com/wuhazua)
 
 
--   2025-04-22 [Portfolio](https://ouuan.moe/post/2025/03/fix-xetex-update?utm_source=GitHubProfile)
--   2025-04-22 [Blog](https://ouuan.moe/post/2025/03/tpctf-2025?utm_source=GitHubProfile)
+-   2025-04-22 [Portfolio]()
+-   2025-04-22 [Blog]()
 
 
 

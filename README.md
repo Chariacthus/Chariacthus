@@ -13,7 +13,7 @@ My name is wuhazu/wuhazua. I graduated at Technical University of Denmark.
 
 ---
 
-### :pencil: [Latest repos](https://github.com/wuhazua)
+### :pencil: [Latest repositories](https://github.com/wuhazua)
 
 
 -   2025-03-20 [修复 XeTeX 更新导致编译错误](https://ouuan.moe/post/2025/03/fix-xetex-update?utm_source=GitHubProfile)

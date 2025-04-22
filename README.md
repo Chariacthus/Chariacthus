@@ -14,7 +14,7 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
 
 ---
 
-### :pencil: [Latest repositories](https://github.com/wuhazua/repositories)
+### :pencil: [Latest repositories](https://github.com/Wuhazua?tab=repositories)
 
 
 -   2025-03-20 [修复 XeTeX 更新导致编译错误](https://ouuan.moe/post/2025/03/fix-xetex-update?utm_source=GitHubProfile)

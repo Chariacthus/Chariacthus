@@ -14,24 +14,15 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
 
 ---
 
-### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
+### :pencil: [Latest repositories](https://github.com/wuhazua/repositories)
 
-<!--START_SECTION:blog-posts-->
+
 -   2025-03-20 [修复 XeTeX 更新导致编译错误](https://ouuan.moe/post/2025/03/fix-xetex-update?utm_source=GitHubProfile)
 -   2025-03-11 [TPCTF 2025 Official Write-Up (6 challenges)](https://ouuan.moe/post/2025/03/tpctf-2025?utm_source=GitHubProfile)
 -   2025-03-04 [SECCON CTF 13 Finals 游记](https://ouuan.moe/post/2025/02/seccon-13-finals?utm_source=GitHubProfile)
 -   2024-12-29 [ASIS CTF Finals 2024 Write-Up](https://ouuan.moe/post/2024/12/asis-ctf-finals-2024?utm_source=GitHubProfile)
 -   2024-12-17 [TSG CTF 2024 Web Write-Up](https://ouuan.moe/post/2024/12/tsgctf-2024-web?utm_source=GitHubProfile)
-<!--END_SECTION:blog-posts-->
+
 
 
 ---
-
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
-
-```txt
-Python             15 hrs 0 mins   🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.42 %
-Lua                4 hrs 0 mins    🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.77 %
-Rust               5 hrs 0 mins    🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.47 %
-JavaScript         8 hrs 0 mins    🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.54 %
-C#                 18 hrs 0 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.48 %

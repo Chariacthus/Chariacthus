@@ -7,8 +7,7 @@ My name is wuhazu/wuhazua. I graduated at Technical University of Denmark.
 
 -   :pencil2: Rust / C++ / C# / HTML / Python / JavaScript
 -   :seedling: Designing Websites daily
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new/choose)!
--   :mag: [CVEs discovered by me](CVE.md)
+-   :thought_balloon: Ask me anything at [Pull Requests](https://github.com/Wuhazua/Wuhazua/pulls)!
 -   :star: [Projects starred by me](AWESOME-STARS.md)
 
 ---

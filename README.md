@@ -7,16 +7,5 @@ My online alias is wuhazua. I graduated at Technical University of Denmark.
 
 -   :pencil2: Rust / C++ / C# / HTML / Python / JavaScript
 -   :seedling: Designing Websites daily
--   :thought_balloon: Ask me anything at [Pull Requests](https://github.com/Wuhazua/Wuhazua/pulls)!
-
----
-
-### :pencil: [Latest Projects](https://github.com/wuhazua)
-
-
--   2025-04-22 [Portfolio]()
--   2025-04-22 [Blog]()
-
-
 
 ---

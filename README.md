@@ -1,4 +1,4 @@
-My online alias is wuhazua. I graduated at Technical University of Denmark.
+My name/alias is wuhazua. I graduated from the Technical University of Denmark.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=wuhazua&theme=dark&show_icons=true">
@@ -7,5 +7,3 @@ My online alias is wuhazua. I graduated at Technical University of Denmark.
 
 -   :pencil2: Rust / C++ / C# / HTML / Python / JavaScript
 -   :seedling: Designing Websites daily
-
----

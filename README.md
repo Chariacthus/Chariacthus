@@ -4,8 +4,8 @@
 🌱 Currently designing websites on the daily & exploring the depths of code.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=wuhazua&theme=dark&show_icons=true">
-  <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=wuhazua&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wuhazua&theme=dark&show_icons=true&cache_seconds=1800">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wuhazua&show_icons=true&cache_seconds=1800">
 </picture>
 
 ---
@@ -21,8 +21,8 @@
 
 ### 🎯 What I'm Up To
 
-- 💻 Building sleek, responsive websites  
-- 🧪 Experimenting with modern frameworks & design systems  
-- 🛠️ Always learning, always improving  
+- 💻 Building simple, responsive websites  
+- 🧪 Testing with new design systems & frameworks  
+- 🛠️ Always learning, always growing  
 
 ---

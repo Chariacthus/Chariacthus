@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Chariacthus&style=for-the-badge)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Chariacthus&theme=dark&show_icons=true&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chariacthus&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chariacthus&theme=dark&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800)
 
 </div>
 
